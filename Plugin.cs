@@ -16,7 +16,7 @@ namespace LibrePad
 
         void CheckVersion()
         {
-            WebRequest request = WebRequest.Create("https://raw.githubusercontent.com/iiDk-the-actual/LibrePad/refs/heads/master/PluginInfo.cs");
+            WebRequest request = WebRequest.Create("https://raw.githubusercontent.com/imudtrust-Projects/LibrePad/refs/heads/main/PluginInfo.cs");
             WebResponse response = request.GetResponse();
             Stream data = response.GetResponseStream();
 
