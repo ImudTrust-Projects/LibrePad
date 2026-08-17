@@ -6,7 +6,7 @@
 
 <p align="center">
 	<a href="https://github.com/ImudTrust-Projects/LibrePad/releases"><img src="https://img.shields.io/github/v/release/ImudTrust-Projects/LibrePad?label=version&style=for-the-badge"></a>
-	<a href="https://github.com/iiDk-the-actual/LibrePad/releases/latest"><img src="https://img.shields.io/github/downloads/ImudTrust-Projects/LibrePad/latest/LibrePad.dll?style=for-the-badge"></a>
+	<a href="https://github.com/ImudTrust-Projects/LibrePad/releases/latest"><img src="https://img.shields.io/github/downloads/ImudTrust-Projects/LibrePad/latest/LibrePad.dll?style=for-the-badge"></a>
 	<a href="https://discord.gg/Bq94vsUtGk"><img src="https://img.shields.io/discord/1488150100852342893?label=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
@@ -39,7 +39,7 @@ I believe that information should be free and public for anyone to access withou
 
 # 💾 Installation
 
-- Download the release from [here](https://github.com/iiDk-the-actual/LibrePad/releases/latest)
+- Download the release from [here](https://github.com/ImudTrust-Projects/LibrePad/releases/latest)
 - Drag the file `LibrePad.dll` to your plugins folder
 - Start Gorilla Tag if needed
 
